@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Nunito+Sans:opsz@6..12&display=swap");
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo,.box2,.login,.login {
+  display: inline;
+}
+
+header {
+  background-color: rgb(0, 85, 232);
+}
+
+.box2 {
+  /* padding-bottom: 100px; */
+  width: 563px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  /* font-size: large; */
+  /* align-items: end; */
+}
+
+.list .box {
+  background-color: rgb(255, 255, 255);
+
+  width: 100vw;
+  height: 70px;
+  border: 2px solid gray;
+}
+
+.container22{
+  /* min-height: calc(100vh - 8vh- 170.2px); */
+  background-color: yellow;
+}
+
+/* #button{
+background-color: rgb(78, 124, 243);
+} */
+
+ul li {
+  display: inline;
+  margin: 2px;
+  
+  padding: 20px 52px 0px 52px;
+}
+ul li a {
+  color: rgb(0, 85, 232);
+  text-decoration: none;
+  font-family: "Inclusive Sans", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
+ul {
+  /* display: inline; */
+  padding: 20px 52px 0px 52px;
+}
+ul a li {
+  display: flex;
+  justify-content: center;
+  font-size: medium;
+  align-items: center;
+  padding: 10px 110px;
+  list-style-type: none;
+}
+footer ul a {
+  display: inline-flex;
+  text-decoration: none;
+  height: 8vh;
+  width: 100vw;
+  background-color: black;
+  color: rgba(242, 242, 38, 0.921);
+}

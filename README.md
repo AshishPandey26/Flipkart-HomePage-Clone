@@ -1,10 +1,10 @@
 <h1 align="center">🛒 Flipkart HomePage Clone</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Old%20Project-lightgrey?style=for-the-badge" />
-</p>
+<!--   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/Status-Old%20Project-lightgrey?style=for-the-badge" /> -->
+<!-- </p> -->
 
 <p align="center">
   My <b>very first web development project</b> when I started learning HTML & CSS.  
@@ -28,18 +28,7 @@
 # Clone this repository
 git clone https://github.com/ashishpandey26/Flipkart-HomePage-Clone.git
 
-# Open index.html in any browser
-</pre>
-
-<hr>
-
-<h2>📂 Project Structure</h2>
-<pre>
-Flipkart-HomePage-Clone/
-│
-├── index.html       # Main Flipkart homepage clone
-├── style.css        # CSS styling
-└── README.md
+Open index.html in any browser
 </pre>
 
 <hr>
